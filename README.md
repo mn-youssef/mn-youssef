@@ -1,100 +1,143 @@
-<h1 align="center">Hi 👋, I'm Youssef Mansouri</h1>
-<h3 align="center">Full-Stack Engineer • DevOps • AI Enthusiast • SaaS Builder</h3>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-<p align="center">
-I build scalable web platforms and modern SaaS products.<br/>
-Clean architecture, high performance, production-ready code.
+# Mansouri Youssef
+
+#### `Full-Stack Engineer` · `DevOps` · `AI Enthusiast` · `SaaS Builder`
+
+<img src="https://img.shields.io/badge/-Building%20scalable%20web%20platforms%20with%20clean%20architecture-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
+
+<br/>
+
+<p>
+  <a href="https://www.linkedin.com/in/mansouri-youssef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@tensorcode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://medium.com/@youssef-of-web"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
----
+</div>
 
-## 🚀 About Me
+<!-- ====================== ABOUT ====================== -->
+## 👋 About Me
 
-- 🇹🇳 From Tunisia  
-- 🔭 Working on **AI, and SaaS platforms**
-- 🧠 Learning **Artificial Intelligence & LLM Agents**
-- 💬 Ask me about **Next.js, NestJS, Docker, DevOps, System Design**
-- ⚡ Philosophy: `Code never lies. Architecture speaks.`
+```ts
+const youssef = {
+  role:      "Full-Stack Engineer",
+  location:  "🇹🇳 Tunisia",
+  focus:     ["Scalable web platforms", "Clean architecture", "Production-ready code"],
+  loves:     ["DevOps", "AI", "Open Source", "Building SaaS"],
+  currently: "Shipping side projects & curating open-source gems 💎",
+  motto:     "Build it clean, ship it fast, scale it right.",
+};
+```
 
----
+- 🔭 I build **scalable web platforms** with clean architecture and production-ready code.
+- 🌱 Always exploring **AI**, **DevOps**, and **SaaS** engineering.
+- 💎 Maintainer of [**awesome-hidden-gems**](https://github.com/youssef-of-web/awesome-hidden-gems) — underrated open-source tools pros swear by.
+- 📺 I share what I learn on YouTube [**@tensorcode**](https://www.youtube.com/@tensorcode).
+- 💬 Ask me about **TypeScript, Node.js, React, Next.js & DevOps**.
 
-## 🌐 Connect with me
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
 
-<p align="center">
-<a href="https://linkedin.com/in/mansouri-youssef">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="languages"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,remix,astro,tailwind&theme=dark" alt="frontend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,prisma&theme=dark" alt="backend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="databases"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>AI / LLMs</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" height="28"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="28"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="28"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,linux,git&theme=dark" alt="devops"/></a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://medium.com/@mansouriyoussef1991">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+<!-- ====================== PROJECTS ====================== -->
+## 🚀 Featured Projects
 
-<a href="https://youtube.com/@tensorcode">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🗺️ [**state-municipality-tunisia**](https://github.com/youssef-of-web/state-municipality-tunisia) | Open dataset of Tunisian states & municipalities — ⭐ 156 | `Data` |
+| 📖 [**quran-lake**](https://github.com/youssef-of-web/quran-lake) | Modern Quranic content platform — ⭐ 68 | `TypeScript` |
+| 🌐 [**tn-municipality-api**](https://github.com/youssef-of-web/tn-municipality-api) | REST API for Tunisian municipality data — ⭐ 59 | `TypeScript` |
+| 💎 [**awesome-hidden-gems**](https://github.com/youssef-of-web/awesome-hidden-gems) | Underrated open-source tools pros swear by — ⭐ 55 | `Awesome` |
+| 🎞️ [**tensor-svg-loaders**](https://github.com/youssef-of-web/tensor-svg-loaders) | Lightweight animated SVG loader components — ⭐ 27 | `TypeScript` |
 
----
-
-## 🧠 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery)
-
-### Backend
-![Node](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Nest](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Mongo](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
-
-### DevOps / Cloud
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHubActions-2671E5?style=for-the-badge&logo=githubactions)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
-
-### Tools / Quality
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-
----
-
+<!-- ====================== STATS ====================== -->
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8" alt="top langs"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=youssef-of-web&theme=tokyonight"/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=youssef-of-web&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
 
-</p>
+<br/><br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=youssef-of-web&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
 
-## 🧩 Current Focus
+</div>
 
-- Spec-Driven Development
-- AI Agents & Automation
-- Microservices Architecture
-- SaaS Platforms
-- High-performance Frontend
+<!-- ====================== CONTRIBUTIONS ====================== -->
+## 🐍 Contribution Graph
 
----
+<div align="center">
 
-## ⭐ Motto
+![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-> Build fast.  
-> Build clean.  
-> Build scalable.  
-> Build like a senior.
+</div>
+
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
+
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you like my work, consider following and dropping a ⭐ on the projects you find useful!
+
+<a href="https://www.linkedin.com/in/mansouri-youssef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@tensorcode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://medium.com/@youssef-of-web"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
+
+</div>
