@@ -3,7 +3,7 @@
 
 # Mansouri Youssef
 
-#### `Full-Stack Engineer` · `DevOps` · `SaaS Builder`
+#### `Full-Stack Engineer` · `DevOps` · `Content Creator`
 
 <img src="https://img.shields.io/badge/-Building%20scalable%20web%20platforms%20with%20clean%20architecture-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
@@ -25,7 +25,8 @@ const youssef = {
   role:      "Full-Stack Engineer",
   location:  "🇹🇳 Tunisia",
   focus:     ["Scalable web platforms", "Clean architecture", "Production-ready code"],
-  loves:     ["DevOps", "AI", "Open Source", "Building SaaS"],
+  loves:     ["DevOps", "AI", "Open Source", "Creating content"],
+  creating:  "Dev tutorials & deep-dives on YouTube @tensorcode 🎥",
   currently: "Shipping side projects & curating open-source gems 💎",
   motto:     "Build it clean, ship it fast, scale it right.",
 };
