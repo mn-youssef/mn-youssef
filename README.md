@@ -75,7 +75,7 @@ const youssef = {
   <tr>
     <td align="center" width="120"><b>DevOps</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,linux,git&theme=dark" alt="devops"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,linux,git&theme=dark" alt="devops"/></a>
     </td>
   </tr>
 </table>
