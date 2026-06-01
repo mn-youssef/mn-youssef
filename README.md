@@ -42,7 +42,7 @@ const youssef = {
   <tr>
     <td align="center" width="120"><b>Languages</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="languages"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" alt="languages"/></a>
     </td>
   </tr>
   <tr>
