@@ -3,7 +3,7 @@
 
 # Mansouri Youssef
 
-#### `Full-Stack Engineer` · `DevOps` · `AI Enthusiast` · `SaaS Builder`
+#### `Full-Stack Engineer` · `DevOps` · `SaaS Builder`
 
 <img src="https://img.shields.io/badge/-Building%20scalable%20web%20platforms%20with%20clean%20architecture-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
