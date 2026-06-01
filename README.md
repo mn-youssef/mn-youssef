@@ -31,14 +31,22 @@ const youssef = {
 };
 ```
 
-- 🔭 I build **scalable web platforms** with clean architecture and production-ready code.
-- 🌱 Always exploring **AI**, **DevOps**, and **SaaS** engineering.
 - 💎 Maintainer of [**awesome-hidden-gems**](https://github.com/youssef-of-web/awesome-hidden-gems) — underrated open-source tools pros swear by.
 - 📺 I share what I learn on YouTube [**@tensorcode**](https://www.youtube.com/@tensorcode).
 - 💬 Ask me about **TypeScript, Node.js, React, Next.js & DevOps**.
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
+
+```yaml
+stack:
+  languages:  [TypeScript, JavaScript, Python]
+  frontend:   [React, Next.js, Remix, Astro, Tailwind]
+  backend:    [Node.js, Bun, NestJS, Express, Prisma]
+  databases:  [PostgreSQL, MongoDB, Redis]
+  ai_llms:    [OpenAI, LangChain, "Hugging Face", Ollama]
+  devops:     [Docker, Kubernetes, "CI/CD", Linux, Git]
+```
 
 <table align="center">
   <tr>
@@ -85,29 +93,35 @@ const youssef = {
 <!-- ====================== PROJECTS ====================== -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🗺️ [**state-municipality-tunisia**](https://github.com/youssef-of-web/state-municipality-tunisia) | Open dataset of Tunisian states & municipalities — ⭐ 156 | `Data` |
-| 📖 [**quran-lake**](https://github.com/youssef-of-web/quran-lake) | Modern Quranic content platform — ⭐ 68 | `TypeScript` |
-| 🌐 [**tn-municipality-api**](https://github.com/youssef-of-web/tn-municipality-api) | REST API for Tunisian municipality data — ⭐ 59 | `TypeScript` |
-| 💎 [**awesome-hidden-gems**](https://github.com/youssef-of-web/awesome-hidden-gems) | Underrated open-source tools pros swear by — ⭐ 55 | `Awesome` |
-| 🎞️ [**tensor-svg-loaders**](https://github.com/youssef-of-web/tensor-svg-loaders) | Lightweight animated SVG loader components — ⭐ 27 | `TypeScript` |
+```bash
+$ git log --author="youssef" --oneline --shortstat
+★ 156  state-municipality-tunisia   open dataset of Tunisian states & municipalities
+★  68  quran-lake                   modern Quranic content platform
+★  59  tn-municipality-api          REST API for Tunisian municipality data
+★  55  awesome-hidden-gems          underrated open-source tools pros swear by
+★  27  tensor-svg-loaders           lightweight animated SVG loaders
+```
+
+<div align="center">
+
+[`state-municipality-tunisia`](https://github.com/youssef-of-web/state-municipality-tunisia) · [`quran-lake`](https://github.com/youssef-of-web/quran-lake) · [`tn-municipality-api`](https://github.com/youssef-of-web/tn-municipality-api) · [`awesome-hidden-gems`](https://github.com/youssef-of-web/awesome-hidden-gems) · [`tensor-svg-loaders`](https://github.com/youssef-of-web/tensor-svg-loaders)
+
+</div>
 
 <!-- ====================== STATS ====================== -->
 ## 📊 GitHub Stats
 
+```sql
+SELECT focus, commits, coffee
+FROM   youssef.daily_routine
+WHERE  mode = 'building'
+ORDER  BY consistency DESC;
+-- → ships clean code, one streak at a time ☕
+```
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8" alt="top langs"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=youssef-of-web&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=youssef-of-web&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
 
 </div>
 
@@ -129,6 +143,12 @@ const youssef = {
 
 <!-- ====================== FOOTER ====================== -->
 ## 🤝 Let's Connect
+
+```bash
+$ echo "Let's build something great together 🚀"
+$ whoami
+> youssef-of-web · open to collaborations, open-source & cool SaaS ideas
+```
 
 <div align="center">
 
