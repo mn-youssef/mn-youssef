@@ -38,16 +38,6 @@ const youssef = {
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
-```yaml
-stack:
-  languages:  [TypeScript, JavaScript, Python]
-  frontend:   [React, Next.js, Remix, Astro, Tailwind]
-  backend:    [Node.js, Bun, NestJS, Express, Prisma]
-  databases:  [PostgreSQL, MongoDB, Redis]
-  ai_llms:    [OpenAI, LangChain, "Hugging Face", Ollama]
-  devops:     [Docker, Kubernetes, "CI/CD", Linux, Git]
-```
-
 <table align="center">
   <tr>
     <td align="center" width="120"><b>Languages</b></td>
