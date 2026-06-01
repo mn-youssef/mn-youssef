@@ -80,6 +80,8 @@ const youssef = {
   </tr>
 </table>
 
+<br clear="all"/>
+
 <!-- ====================== PROJECTS ====================== -->
 ## 🚀 Featured Projects
 
