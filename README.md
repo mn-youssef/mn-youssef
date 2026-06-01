@@ -38,7 +38,7 @@ const youssef = {
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="120"><b>Languages</b></td>
     <td align="left">
