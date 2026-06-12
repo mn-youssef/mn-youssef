@@ -32,7 +32,7 @@ const youssef = {
 };
 ```
 
-- 💎 Maintainer of [**awesome-hidden-gems**](https://github.com/youssef-of-web/awesome-hidden-gems) and [**security-skills**](https://github.com/youssef-of-web/security-skills).
+- 💎 Maintainer of [**awesome-hidden-gems**](https://github.com/mn-youssef/awesome-hidden-gems) and [**security-skills**](https://github.com/mn-youssef/security-skills).
 - 📺 I share what I learn on YouTube [**@tensorcode**](https://www.youtube.com/@tensorcode).
 - 💬 Ask me about **TypeScript, Node.js, React, Next.js & DevOps**.
 
