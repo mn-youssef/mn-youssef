@@ -32,7 +32,7 @@ const youssef = {
 };
 ```
 
-- 💎 Maintainer of [**awesome-hidden-gems**](https://github.com/youssef-of-web/awesome-hidden-gems) — underrated open-source tools pros swear by.
+- 💎 Maintainer of [**awesome-hidden-gems**](https://github.com/youssef-of-web/awesome-hidden-gems) and [**security-skills**](https://github.com/youssef-of-web/security-skills).
 - 📺 I share what I learn on YouTube [**@tensorcode**](https://www.youtube.com/@tensorcode).
 - 💬 Ask me about **TypeScript, Node.js, React, Next.js & DevOps**.
 
